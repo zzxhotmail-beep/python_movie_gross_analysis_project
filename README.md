@@ -57,7 +57,8 @@ Studios invest millions in production and marketing, but predicting financial pe
 
 ## 📁 Project Structure
 
-- **movie gross correlation analysis.ipynb**   # Full analysis workflow
+- **movie gross correlation analysis.ipynb** # Full analysis workflow
+- **movies.csv** # Dataset
 
 ## 🔗 Project Link
 
