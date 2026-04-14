@@ -49,15 +49,17 @@ Studios invest millions in production and marketing, but predicting financial pe
 ## 💡 Business Recommendations
 
 - 🎯 **Increase strategic investment in high-potential projects**
-  → Higher budgets correlate with higher returns
-- 📣 **Focus on audience engagement & marketing**
-  → Votes indicate popularity and directly impact revenue
-- 📊 **Use data-driven decision-making in greenlighting films**
-  → Combine financial and engagement metrics for better predictions
+→ Higher budgets correlate with higher returns
+
+- 📣 **Focus on audience engagement & marketing**  
+→ Votes indicate popularity and directly impact revenue
+
+- 📊 **Use data-driven decision-making in greenlighting films**  
+→ Combine financial and engagement metrics for better predictions
 
 ## 📁 Project Structure
 
-- movie gross correlation analysis.ipynb   # Full analysis workflow
+- **movie gross correlation analysis.ipynb**   # Full analysis workflow
 
 ## 🔗 Project Link
 
