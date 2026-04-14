@@ -62,7 +62,8 @@ Studios invest millions in production and marketing, but predicting financial pe
 ## 🔗 Project Link
 
 - 📘 **Kaggle Notebook (Full Analysis & Code)**:
-[Movie Gross Correlation Analysis]（https://www.kaggle.com/code/zzx022308/movie-gross-correlation-analysis）
+
+[Movie Gross Correlation Analysis](https://www.kaggle.com/code/zzx022308/movie-gross-correlation-analysis)
 
 ## 📌 Key Takeaway
 
