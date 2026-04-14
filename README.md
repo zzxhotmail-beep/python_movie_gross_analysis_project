@@ -50,10 +50,8 @@ Studios invest millions in production and marketing, but predicting financial pe
 
 - 🎯 **Increase strategic investment in high-potential projects**  
 → Higher budgets correlate with higher returns
-
 - 📣 **Focus on audience engagement & marketing**  
 → Votes indicate popularity and directly impact revenue
-
 - 📊 **Use data-driven decision-making in greenlighting films**  
 → Combine financial and engagement metrics for better predictions
 
