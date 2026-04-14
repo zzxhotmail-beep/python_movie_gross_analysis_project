@@ -48,7 +48,7 @@ Studios invest millions in production and marketing, but predicting financial pe
 
 ## 💡 Business Recommendations
 
-- 🎯 **Increase strategic investment in high-potential projects**
+- 🎯 **Increase strategic investment in high-potential projects**  
 → Higher budgets correlate with higher returns
 
 - 📣 **Focus on audience engagement & marketing**  
